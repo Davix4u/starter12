@@ -1,0 +1,9 @@
+# Git history
+.git
+.gitignore
+
+node_modules
+dist
+.env
+.git
+*.log
